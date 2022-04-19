@@ -16,3 +16,7 @@ http://localhost:8080/upload-file/uploadform
 
 ## Requirements
 Java 8+
+
+Tomcat 9
+
+Servlet 3.0+
